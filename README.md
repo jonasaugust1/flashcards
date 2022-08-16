@@ -1,3 +1,5 @@
+Deploy: https://react-flashcards-project.netlify.app/
+
 # To Run
 
 Run `npm start` in the project root and the app will be available on port 3000.
